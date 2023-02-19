@@ -1,1 +1,6 @@
-which command show cluster state, show cluster members state
+"how do I see member available to join cluster
+how do get available members
+how do I see member ready to join the cluster","very easy, from gclish run command:
+> show cluster members state 
+And look for members with state REQEUST_TO_JOIN"
+which log should I look for elasticXL issues,Relevant logs for procisioning issues are: /var/log/exl_detection.log

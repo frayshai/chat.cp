@@ -1,0 +1,9 @@
+---
+category:
+- elasticXL
+conversations:
+- - how do I see members available to join cluster?
+  - Very aesy, run from gclish: > show cluster memebrs state
+- - elasticXL logs
+- - Which logs relevant to elasticXL ?
+  - Relevant logs are: /var/log/exl_detections.log
